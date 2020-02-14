@@ -20,3 +20,6 @@ The data and the attributes for the city Toronto is prepared using toronto_weath
 
 # Prediction for Maximum Temperature
 ![](max_temp.png)
+
+# How to run
+check weather_prediction_maxTemp.py and weather_prediction_minTemp.py
