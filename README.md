@@ -7,7 +7,7 @@ Weather prediction is done on historical time series data. The dataset includes 
 <br/>
 
 # Preprocessing 
-The data and the attributes for the city Toronto is prepared using toronto_weather.py script.
+The data and the attributes for the city Toronto is prepared using get_toronto_data.py script.
 
 # Average Temperature Yearly 
 ![](average_temperature_yearly.png)
